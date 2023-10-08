@@ -1,0 +1,18 @@
+List of Cars manufactured in 2000 with price higher than 5000
+-------------------------------
+ID: 12
+Make: Toyota
+Model: SUV
+Manufacture Year: 2000
+Color: Blue
+Price: 20008
+Registration Number: BH0C0411
+-------------------------------
+ID: 14
+Make: AUDI
+Model: Hatchback
+Manufacture Year: 2000
+Color: White
+Price: 20010
+Registration Number: BH0C0003
+-------------------------------

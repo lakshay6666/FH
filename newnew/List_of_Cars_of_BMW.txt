@@ -1,0 +1,18 @@
+List of Cars of a given brand: BMW
+-------------------------------
+ID: 2
+Make: BMW
+Model: Sedan
+Manufacture Year: 2005
+Color: White
+Price: 5500
+Registration Number: DL2C9898
+-------------------------------
+ID: 10
+Make: BMW
+Model: Sedan
+Manufacture Year: 1996
+Color: Pink
+Price: 2000
+Registration Number: BH0C2052
+-------------------------------
