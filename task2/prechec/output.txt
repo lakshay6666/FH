@@ -1,0 +1,83 @@
+Internal Combustion Engine Vehicle (ICEV)
+Manufacture Name: Porsche
+Year Of Manufacture: 2015
+Engine Material: Steel
+Engine Unique ID : 134.0
+Engine Cost: 23400
+
+Battery Electric Vehicle (BEV)
+Manufacture Name: Porsche
+Year Of Manufacture: 2015
+Engine Material: Copper
+Engine Unique ID : 321.0
+Engine Cost: 12005
+
+Hybrid Vehicle (HybridV)
+Manufacture Name: Porsche
+Year Of Manufacture: 2015
+Engine Material: Zinc
+Engine Unique ID : 2321.0
+Engine Cost: 123059
+
+Internal Combustion Engine Vehicle (ICEV)
+Manufacture Name: Audi
+Year Of Manufacture: 2023
+Engine Material: Steel
+Engine Unique ID : 134.0
+Engine Cost: 23400
+
+Battery Electric Vehicle (BEV)
+Manufacture Name: Audi
+Year Of Manufacture: 2023
+Engine Material: Copper
+Engine Unique ID : 321.0
+Engine Cost: 12005
+
+Hybrid Vehicle (HybridV)
+Manufacture Name: Audi
+Year Of Manufacture: 2023
+Engine Material: Zinc
+Engine Unique ID : 2321.0
+Engine Cost: 123059
+
+Internal Combustion Engine Vehicle (ICEV)
+Manufacture Name: Suzuki
+Year Of Manufacture: 2022
+Engine Material: Steel
+Engine Unique ID : 134.0
+Engine Cost: 23400
+
+Battery Electric Vehicle (BEV)
+Manufacture Name: Suzuki
+Year Of Manufacture: 2022
+Engine Material: Copper
+Engine Unique ID : 321.0
+Engine Cost: 12005
+
+Hybrid Vehicle (HybridV)
+Manufacture Name: Suzuki
+Year Of Manufacture: 2022
+Engine Material: Zinc
+Engine Unique ID : 2321.0
+Engine Cost: 123059
+
+Internal Combustion Engine Vehicle (ICEV)
+Manufacture Name: KIA
+Year Of Manufacture: 2016
+Engine Material: Steel
+Engine Unique ID : 134.0
+Engine Cost: 23400
+
+Battery Electric Vehicle (BEV)
+Manufacture Name: KIA
+Year Of Manufacture: 2016
+Engine Material: Copper
+Engine Unique ID : 321.0
+Engine Cost: 12005
+
+Hybrid Vehicle (HybridV)
+Manufacture Name: KIA
+Year Of Manufacture: 2016
+Engine Material: Zinc
+Engine Unique ID : 2321.0
+Engine Cost: 123059
